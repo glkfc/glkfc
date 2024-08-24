@@ -6,4 +6,4 @@ A network security entry-level student from China 😘.
 - 📫 How to reach me: jfkk2331997024@gmail.com
 - ⚡ Fun fact: Coding、Chinese classical literature and Mess around.
   
-#<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glkfc&show_icons=true&locale=en" alt="glkfc" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glkfc&show_icons=true&locale=en" alt="glkfc" /></p>-->
